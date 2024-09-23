@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjaliii1
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning *Java-Script* and *ReactJS*
+- 👀 I’m interested in web development/ Data Analyst.
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. anjali1602sahu@gmail.com
 

@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
    - Python,SQL,HTML,CSS,MySQL
 - Analytical Tools
    - Power BI,Tableau
+Resume:

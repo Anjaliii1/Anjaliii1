@@ -18,4 +18,5 @@ You can click the Preview link to take a look at your changes.
    - Python,SQL,HTML,CSS,MySQL
 - Analytical Tools
    - Power BI,Tableau
-Resume:
+### Resume:[Anjali_Resume.pdf](https://github.com/user-attachments/files/18441453/Anjali_Resume.pdf)
+
